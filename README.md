@@ -2,6 +2,8 @@
 
 This was a group work created my me and my team in Babcock University
 
+It is a project on Inventory store managemement, it collect data of your products, warehouses, product sections, others and store them in a database where it can be accessed and edited in the website.
+
 To be able to run this pages perfectly, you will need to have xampp or any mysql engine installed on your system.
 This program's sql localhost is xampp
 
