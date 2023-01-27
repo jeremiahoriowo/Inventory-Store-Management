@@ -1,4 +1,4 @@
-/* FOR LARGE DEVICES */
+/* FOR LARGE DEVICES
 @media screen and (max-width: 1024px) {
     
 }
@@ -8,10 +8,10 @@
         width: 100%;
         padding: 0px 30px;
     }
-    .container h2{
+    /* .container h2{
         font-size: 20px;
         display: none;
-    }
+    } 
     .container ul li{
         margin-right: 18px;
         font-size: 16px;
@@ -26,17 +26,18 @@
         margin-left: -190px;
     }
 }
-
+*/
 /* MEDIUM DEVICES */
+/*
 @media screen and (max-width: 568px){
     .container{
         width: 100%;
         padding: 0px 30px;
     }
-    .container h2{
+    /* .container h2{
         font-size: 20px;
         display: none;
-    }
+    } 
     .container ul li{
         margin-right: 18px;
         font-size: 13px;
@@ -51,8 +52,8 @@
         margin-left: -190px;
     }
 }
-
+*/
 /* SMALL DEVICES */
 @media screen and (max-width: 350px){
 
-}
+} 

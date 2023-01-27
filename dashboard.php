@@ -148,7 +148,31 @@ $password = $_GET['password'];
         .dropdown:hover .dropbtn {
             background-color: #3e8e41;
         }
+        @media screen and (max-width: 568px){
+            .container{
+                width: 100%;
+                padding: 0px 30px;
+            }
+            /* .container h2{
+                font-size: 20px;
+                display: none;
+            } 
+            .container ul li{
+                margin-right: 18px;
+                font-size: 13px;
+            }
+            .container ul{
+                display: flex;
+            }
+            .container .btn{
+                width: 130px;
+                height: 45px;
+                font-size: 15px;
+                margin-left: -190px;
+            }
+        }
     </style>
+    <link rel='stylesheet' href='mobile.css'>
 </head>
 <body>
     <div class='container-fluid'>
